@@ -10,7 +10,7 @@ sliderule_dsi_json_exercise.ipynb
 
 Solution:
 
-sliderule_dsi_json_exercise.ipynb
+sliderule_dsi_json_solution.ipynb
 
 Section: 
 
