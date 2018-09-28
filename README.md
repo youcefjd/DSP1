@@ -1,16 +1,19 @@
 # DSP1
 
-FIRST SPRINGBOARD PROJECT 
 
 Unit 5.2: JSON exercise
 
 Exercice:
 
-sliderule_dsi_json_exercise.ipynb
+
+You can find the dataset @world_bank_projects.json and the questions/instructions @sliderule_dsi_json_exercise.ipynb
+
 
 Solution:
 
-sliderule_dsi_json_solution.ipynb
+
+My solution was updated @sliderule_dsi_json_solution.ipynb
+
 
 Section: 
 
