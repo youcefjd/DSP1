@@ -1,4 +1,6 @@
-# DSP1
+# Data Wrangling in Python
+
+Libraries used: Pandas
 
 
 Unit 5.2: JSON exercise
